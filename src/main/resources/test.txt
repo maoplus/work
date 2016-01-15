@@ -1,0 +1,2 @@
+impl=F:\workspace\1\dcl-app\target\classes\com\markit\markitclear\uiserver\service\jdbc\impl\TradeServiceJdbcImpl.java
+test=F:\workspace\1\dcl-app\src\test\java\com\markit\markitclear\uiserver\service\jdbc\impl\test\TradeServiceJdbcImplTest.java
